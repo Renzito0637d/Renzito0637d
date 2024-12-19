@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
+Me llamo Renzo, actualmente cursando la carrera de ingeniería de sistemas e informática. Experiencia bajo buenas practicas en desarrollo de software, manejo de componentes en desarrollo de interfaces web, gestión de base de datos.
+---
+## 💻 Especialización
+- **Lenguajes de programación**: Java, SQL, MySQL.
+- **Herramientas**: Git, Apache NetBeans IDE, Visual Studio Code.
+
+## 🌱📬 Conectame
+
+- **Correo Electrónico**: renzito0637d@gmail.com
 <!--
 **Renzito0637d/Renzito0637d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
