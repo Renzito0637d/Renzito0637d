@@ -6,7 +6,7 @@ Me llamo Renzo, actualmente cursando la carrera de ingeniería de sistemas e inf
 - **Lenguajes de programación**: Java, SQL, MySQL.
 - **Herramientas**: Git, Apache NetBeans IDE, Visual Studio Code.
 
-## 🌱📬 Conectame
+## 🌱📬 Contactame
 
 - **Correo Electrónico**: renzito0637d@gmail.com
 <!--
